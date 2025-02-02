@@ -1,6 +1,6 @@
 | S.No | Contest ID |  Bug ID |  Bug Label |  Difficulty |  Bug Description |  Reference |  Comment |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 3 |  H-01 |  L1 | 1 |  "Re-entrancy bug allows inflating balance" | [Link]( [https://code4rena.com/reports/2021-04-marginswap#h-01-re-entrancy-bug-allows-inflating-balance](https://code4rena.com/reports/2021-04-marginswap#h-01-re-entrancy-bug-allows-inflating-balance)) |  "" |
+| 1 | 3 |  H-01 |  L1 | 1 |  "Re-entrancy bug allows inflating balance" | [Link](https://code4rena.com/reports/2021-04-marginswap#h-01-re-entrancy-bug-allows-inflating-balance](https://code4rena.com/reports/2021-04-marginswap#h-01-re-entrancy-bug-allows-inflating-balance)) |  "" |
 | 2 | 3 |  H-02 |  SE-4 | 1 |  "Missing fromToken != toToken check" | [Link]( https://code4rena.com/reports/2021-04-marginswap#h-02-missing-fromtoken--totoken-check) |  "" |
 | 3 | 3 |  H-03 |  S1-1 | 1 |  "Price feed can be manipulated" | [Link]( https://code4rena.com/reports/2021-04-marginswap#h-03-price-feed-can-be-manipulated) |  "" |
 | 4 | 3 |  H-04 |  S6-2 | 1 |  "Inconsistent usage of applyInterest" | [Link]( https://code4rena.com/reports/2021-04-marginswap#h-04-inconsistent-usage-of-applyinterest) |  "" |
